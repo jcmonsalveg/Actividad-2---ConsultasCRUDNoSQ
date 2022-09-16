@@ -7,7 +7,7 @@
 
 Compartimos a continuación los ejemplos de código que nos permiten interactuar a través del Shell de MongoDB con una base de datos no relacional con un Crud.
 
-## Create (Crear)
+## Create (Crear) 📝
 
 
 **Crear: CREATE (uno solo)**
@@ -29,7 +29,7 @@ db.deportistas.insertMany([
 ~~~
 
 
-## Read (Leer)
+## Read (Leer) 👁️
 
 
 **Para ver documentos en la coleccion X**
@@ -43,7 +43,7 @@ db.deportistas.find()
 db.deportistas.find().pretty()
 ~~~
 
-## Update (Actualizar)
+## Update (Actualizar) 📝
 
 
 **Para actualizar un documento (Update)**
@@ -62,7 +62,7 @@ db.deportistas.update({_id: ObjectId("631ce244e132c4303a5e7808")}, {$set: {nombr
 db.deportistas.update({"documento": 365219}, {$set: {nombres: "Gloria Patricia"} })
 ~~~
 
-## Delete (Eliminar)
+## Delete (Eliminar) 💣
 
 **Para eliminar un documento (Delete)**
 
