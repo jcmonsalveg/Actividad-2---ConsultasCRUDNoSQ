@@ -2,8 +2,8 @@
 # CRUD EN MongoDB
 # Ing de Software. Bases de datos avanzadas. Iberoamericana
 
-### Brayan Steven Bonilla Castellanos
-### Juan Carlos Monsalve Gómez
+### Brayan Steven Bonilla Castellanos :man: 
+### Juan Carlos Monsalve Gómez :man:
 
 Compartimos a continuación los ejemplos de código que nos permiten interactuar a través del Shell de MongoDB con una base de datos no relacional con un Crud.
 
